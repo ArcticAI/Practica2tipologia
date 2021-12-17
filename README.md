@@ -2,6 +2,7 @@
 Trabajo individual realizado por Javier Martínez Delgado
 
 Descripción de los ficheros:
+
 -Practica2.pdf: PDF con las respuestas a los apartados
 
 -Código: Carpeta con el jupyter notebook y el código de la práctica
